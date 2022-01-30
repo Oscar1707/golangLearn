@@ -8,8 +8,11 @@ func main()  {
 	n1 :=0
 	n2 :=1
 	r  :=0
+	var n3 int = 3
+	fmt.Println("Hello", n3)
+
 	if n2 == 0 {
-		fmt.Println("Hello")
+		fmt.Println("Hello", n3)
 	
 	 for i := 0; i < 10; i++ {
 		 r = n1+n2
