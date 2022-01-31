@@ -9,7 +9,7 @@ func main()  {
 	n2 :=1
 	r  :=0
 	var n3 int = 3
-	fmt.Println("Hello", n3)
+	fmt.Println("Trissa takanahua", n3)
 
 	if n2 == 0 {
 		fmt.Println("Hello", n3)
