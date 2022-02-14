@@ -17,7 +17,8 @@ func weirdN(num float32)  {
 	fmt.Println("num ",num)
 	
 	var isPair float32 = num / 2
-	fmt.Println("Vamos para sigapr:_ ", isPair)
+	fmt.Println("hello amigos code:_ ", isPair)
+	fmt.Println("your english is bad")
 	
 
 }
